@@ -10,7 +10,7 @@ $ npm install --save ToDo-Electrode-React-Redux
 ## Usage
 
 ```js
-var ToDo-Electrode-React-Redux = require('ToDo-Electrode-React-Redux');
+var toDO = require('ToDo-Electrode-React-Redux');
 
 toDo('Rainbow');
 ```
